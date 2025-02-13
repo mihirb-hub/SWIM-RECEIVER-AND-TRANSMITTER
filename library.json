@@ -1,0 +1,7 @@
+{
+    "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+    "name": "SWIMProtocol",
+    "description": "SWIM Project LED communication protocol library.",
+    "keywords": ["SWIM", "Arduino", "RP2040"],
+    "version": "1.0.0"
+}
